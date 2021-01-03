@@ -2,6 +2,7 @@ h1{
     font-size: 50px;
 }
 body{
+    margin: 0;
     font-family: 'Do Hyeon', sans-serif;
     font-family: 'Playfair Display', serif;
 }
@@ -10,10 +11,17 @@ body{
 }
 .half-width{
     width: 40%;
-    float: left;
     margin: 3%;
+    float: left;
     padding-left: 2%;
 }
 .half-width img{
     width: 100%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+   background-repeat: no-repeat;
+}
+section{
+    height: 500px;
 }
