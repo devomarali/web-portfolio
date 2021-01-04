@@ -23,7 +23,7 @@ body{
     background-repeat: no-repeat;
 }
 section{
-    height: 500px;
+    height: 700px;
 }
 p{
     font-style: oblique;
@@ -42,6 +42,7 @@ p{
     background-image: url(./images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 100px;
 }
 .single-expreance{
     box-shadow: 10px 10px 40px gray;
@@ -53,6 +54,7 @@ p{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
+    margin-bottom: 100px;
 }
 #full-stack{
     border-left: 7px solid;
@@ -61,10 +63,10 @@ p{
 }
 #st-web{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg green, blue);
+    border-image: linear-gradient(180deg, #3498db, #2c3e50);
     border-image-slice: 1;
 }
-footer p{
+footer{
     text-align: center;
     font-size: 10px;
 }
