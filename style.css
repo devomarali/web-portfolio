@@ -38,3 +38,8 @@ p{
     font-weight: 700;
     background-image: linear-gradient(#236808, #54f808);
 }
+.skill-area{
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
