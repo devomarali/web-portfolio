@@ -45,7 +45,7 @@ p{
     margin-bottom: 100px;
 }
 .single-expreance{
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 50px gray;
     border-radius: 10px;
     height: 80%;
     background-color: white;
@@ -58,7 +58,7 @@ p{
 }
 #full-stack{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg gray, red);
+    border-image: linear-gradient(180deg, #f85206, #2c3e50);
     border-image-slice: 1;
 }
 #st-web{
